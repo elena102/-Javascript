@@ -1,0 +1,32 @@
+body {
+    background: rgb(130, 218, 245);
+  }
+.goods-item{
+  
+  
+  color:seagreen ;
+  width: 60px;
+  height: 85px;
+  padding: 20px;
+    border-color: black;
+    border-style: groove;
+    border-width: thin;
+}
+
+.showcase{
+  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 44px;
+    border: 13px;
+    color: black;
+    text-align: center;
+  }
+main{
+  padding: 30px;
+}
+footer{
+  padding-top: 50px;
+}
+
